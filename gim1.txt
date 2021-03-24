@@ -1,0 +1,20 @@
+G;Gimnasio Bababababa; 10; 2
+L;Jose Luis
+P;Bulbasaur;45;49;49
+P;Ivysaur;60;62;63
+P;Venusaur;59;51;32
+P;VenusaurMega Venusaur;26;52;19
+P;Charmander;46;52;43
+E;Jorgito
+P;Beedrill;42;32;40
+P;BeedrillMega Beedrill;37;59;40
+P;Pidgey;56;45;40
+P;Pidgeotto;16;60;55
+P;Pidgeot;53;48;55
+E;Papurri
+P;Ekans;55;60;44
+P;Arbok;62;29;39
+P;Pikachu;46;55;40
+P;Raichu;24;38;55
+P;Sandshrew;40;63;51
+P;Sandslash;41;44;62

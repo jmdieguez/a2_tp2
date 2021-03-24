@@ -1,0 +1,10 @@
+G;Gimnasio de Aprendizaje; 5; 1
+L;Señor Batata
+P;Paras;25;36;20
+P;Parasect;30;20;30
+E;Sabalero
+P;Diglett;16;25;25
+P;Dugtrio;32;30;30
+E;Kiko Zona Sur
+P;Horsea; 25; 20; 20
+P;Shellder; 10;10;15

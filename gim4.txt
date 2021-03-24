@@ -1,0 +1,55 @@
+G;Gimnasio Tacataca; 20; 4
+L;Messi
+P;Meowth;70;55;55
+P;Persian;51;43;60
+P;Psyduck;64;62;58
+P;Golduck;66;58;60
+P;Mankey;67;48;55
+P;Primeape;59;63;60
+E;Mbappe
+P;Alakazam;62;50;65
+P;Bugatti;52;50;47
+P;Machop;65;42;50
+P;Machoke;45;52;42
+P;Machamp;55;55;59
+E;El Pulga Rodriguez
+P;Tentacruel;60;69;38
+P;Geodude;40;41;62
+P;Graveler;55;52;45
+P;Golem;45;63;52
+G;Gimnasio Chufucu; 16; 5
+L;El Roque
+P;Magnemite;45;35;11
+P;Magneton;40;60;33
+P;Farfetch'd;60;32;55
+E;El tuqui
+P;Totodile;43;43;34
+P;Croconaw;58;36;61
+P;Feraligatr;60;53;46
+E;El pichichi
+P;Togetic;40;40;53
+P;Natu;23;50;45
+P;Xatu;53;53;47
+P;Mareep;35;40;40
+G;Gimnasio Rututututu; 17; 2
+L;Señor Calabaza
+P;Hitmontop;61;55;35
+P;Smoochum;44;30;15
+P;Elekid;63;63;37
+P;Magby;40;58;37
+P;Miltank;63;63;35
+P;Blissey;55;10;10
+E;El tiki tiki
+P;Wobbuffet;33;33;58
+P;Girafarig;44;62;33
+P;Pineco;15;9;62
+P;Forretress;40;50;26
+P;Dunsparce;45;36;63
+P;Gligar;60;63;57
+E;Yanose
+P;Azumarill;50;50;62
+P;Sudowoodo;30;51;13
+P;Politoed;10;53;52
+P;Hoppip;50;35;40
+P;Skiploom;60;45;50
+P;Jumpluff;56;55;50
