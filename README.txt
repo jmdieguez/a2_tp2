@@ -1,10 +1,9 @@
-                TP-2 / ALGORITMOS 2 / CÁTEDRA MÉNDEZ / 2020 2C
 
                               /  Introducción  /
 
 El programa presentado se trata de un juego basado en la Aventura Pokémon, donde un entrenador debe recorrer los distintos gimnasios
 de una región, venciéndo a todos los entrenadores que se le crucen. 
-Se inicia desde un menu de inicio en el main, en el que al usuario se le permite cargar un archivo de texto estructurado (con formado
+Se inicia desde un menu de inicio en el main, en el que al usuario se le permite cargar un archivo de texto estructurado (con formato
 pre-designado) con los datos de el personaje principal, o de un nuevo gimnasio para incorporar. Adicionalmente, una opción para arrancar
 a jugar (una vez cargados los datos anteriores), otra opción para simular la partida, y finalmente terminar el programa.
 
@@ -78,4 +77,4 @@ funcion()                                                                   func
 * Salvo las declaraciones de las funciones en sí.
 ------------------------------------------------------------------------------------------ 
                      
-                          Manuel Dieguez –  106146
+                          Manuel Dieguez
